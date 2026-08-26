@@ -1,54 +1,90 @@
-# Hey, I'm Nori 👋
+# 👋 Hey, I'm **Nori**
 
-· 🎵 **Musician** 
-· 💻 **Developer in progress** 
-· 🛠️ **Tool maker**
+### `developer • musician • builder`
 
-I'm **Nori**, a programmer in my spare time, a musician, and someone who enjoys building things just because I can.
+I'm a programmer **learning by building**, a musician, and a curious person who likes turning ideas into things that actually work.
 
-I'm currently learning and experimenting with different technologies, creating **tools, utilities, and projects designed to make people's lives a little easier.**
-
-### 🧠 Technologies
-
-I'm currently working with:
-
-* 🟨 **JavaScript**
-* 🐍 **Python**
-* ⚙️ **C**
-* 🔧 And other technologies I'm constantly learning
-
-I'm more interested in **building useful things** than sticking to a single stack.
-
-### 🚀 What I do
-
-> **I make tools to make life easier.**
-
-From small utilities and automation scripts to larger projects, I like taking annoying or repetitive problems and turning them into something simple.
-
-I enjoy experimenting, breaking things, fixing them, and learning along the way.
-
-### 🎧 Outside of code
-
-When I'm not programming, I'm probably making music.
-
-Music is a big part of what I do — from producing and writing to working on projects within the music industry.
-
-So yeah...
-
-**I write code and I write music. Sometimes I do both at the same time.** :skull:
-
-### 📌 Currently
-
-* 🔨 Building useful tools
-* 📚 Learning more about software development
-* 🧪 Experimenting with new technologies
-* 🎵 Making music
-* 💡 Turning random ideas into actual projects
+I build **tools, automations, experiments and random useful stuff** — mostly because I like making complicated things simpler.
 
 ---
 
-### 💬 A little philosophy
+## 🧩 Tech Stack
 
-> *"If something is annoying to do twice, automate it."*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,c,nodejs,git,github,linux" />
+</p>
 
-Thanks for stopping by. 👋
+> **JavaScript · Python · C · Node.js · Git · Linux · and whatever I need to build the thing.**
+
+I'm constantly learning new technologies and exploring different areas of development.
+
+---
+
+## 🔨 What I Build
+
+```text
+💡 Ideas
+   ↓
+🧠 Experiment
+   ↓
+💻 Build
+   ↓
+🛠️ Make it useful
+```
+
+I like creating:
+
+* ⚡ **Automation & utilities**
+* 🛠️ **Developer tools**
+* 🤖 **Bots & integrations**
+* 🌐 **Web projects**
+* 🧪 **Experiments & prototypes**
+* 🎵 **Tools for music & creative workflows**
+
+The goal is pretty simple:
+
+> **Make people's lives easier — one little tool at a time.**
+
+---
+
+## 🎵 Beyond Code
+
+I'm also a **musician**.
+
+Music and programming are two sides of the same thing for me:
+**creating something from nothing.**
+
+Sometimes it's a track.
+Sometimes it's a script.
+Sometimes it's a completely unnecessary project that somehow becomes useful. :')
+
+---
+
+## 📚 Currently Learning
+
+* 💻 Software development
+* 🧠 Better programming practices
+* ⚙️ Systems & low-level concepts
+* 🌐 Web technologies
+* 🔧 Building better tools
+* 🚀 Turning ideas into real projects
+
+---
+
+## 🐙 GitHub
+
+I don't aim to have the biggest repository count.
+
+I'd rather have **projects that solve problems, experiments that teach me something, and code that I'm proud of.**
+
+If you find something useful here, **feel free to use it, learn from it, or build on top of it.** ❤️
+
+---
+
+<div align="center">
+
+### `build • learn • break • fix • repeat`
+
+**Thanks for stopping by!** 👋
+
+</div>
