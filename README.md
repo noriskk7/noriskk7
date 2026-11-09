@@ -11,10 +11,10 @@ I build **tools, automations, experiments and random useful stuff** — mostly b
 ## 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,nodejs,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,linux" />
 </p>
 
-> **JavaScript · Python · C · Node.js · Git · Linux · and whatever I need to build the thing.**
+> **JavaScript · Python · Node.js · Git · Linux · and whatever I need to build the thing.**
 
 I'm constantly learning new technologies and exploring different areas of development.
 
