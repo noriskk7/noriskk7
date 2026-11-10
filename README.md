@@ -14,7 +14,7 @@ I build **tools, automations, experiments and random useful stuff** — mostly b
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,electron,linux" />
 </p>
 
-> **JavaScript · Python · Node.js · Git · Linux · and whatever I need to build the thing.**
+> **JavaScript · Python · Node.js · Git · Electron · Linux · and whatever I need to build the thing.**
 
 I'm constantly learning new technologies and exploring different areas of development.
 
