@@ -11,7 +11,7 @@ I build **tools, automations, experiments and random useful stuff** — mostly b
 ## 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,electron,linux" />
 </p>
 
 > **JavaScript · Python · Node.js · Git · Linux · and whatever I need to build the thing.**
